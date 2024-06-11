@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dmhb4g7nelechit3wf4cbu2qhe)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31dmhb4g7nelechit3wf4cbu2qhe" />
 </div>
 
 ###
