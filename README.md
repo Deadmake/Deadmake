@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-<iframe src="https://6klabs.com/widget/spotify/878665583cc050cd88f94ce1c2c72735fc737b93b84e30be48db60bb958d041e" width="100%" height="500" frameborder="0" allowtransparency="true"></iframe>
+<img src="https://6klabs.com/widget/spotify/878665583cc050cd88f94ce1c2c72735fc737b93b84e30be48db60bb958d041e" />
 </div>
 
 ###
