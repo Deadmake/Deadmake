@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-<img src="https://6klabs.com/widget/spotify/878665583cc050cd88f94ce1c2c72735fc737b93b84e30be48db60bb958d041e" />
+[![Follow Mohamed El-Qassas GitHub]([https://avatars.githubusercontent.com/u/49816567?s=96&v=4](https://6klabs.com/widget/spotify/878665583cc050cd88f94ce1c2c72735fc737b93b84e30be48db60bb958d041e))]([https://github.com/melqassas/](https://6klabs.com/widget/spotify/878665583cc050cd88f94ce1c2c72735fc737b93b84e30be48db60bb958d041e))
 </div>
 
 ###
